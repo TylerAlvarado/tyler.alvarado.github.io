@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title:
+title: "Tyler Alvarado"
 email: tsalvarado719@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -64,11 +64,12 @@ author:
   links:
     - label: "Fort Collins, CO"
       icon: "fa fa-map-marker-alt"
+      url: ""
     - label: "Email"
       icon: "fa fa-envelope-square"
       url: "mailto:tsalvarado719@gmail.com"
     - label: "GitHub"
-      icon: "fa fa-fw fa-github"
+      icon: "github"
       url: "https://github.com/TylerAlvarado"
     - label: "LinkedIn"
       icon: "fa fa-linkedin"
