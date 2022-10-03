@@ -69,10 +69,10 @@ author:
       icon: "fa fa-envelope-square"
       url: "mailto:tsalvarado719@gmail.com"
     - label: "GitHub"
-      icon: "fa fa-github fa-w-16 fa-fw"
+      icon: "fa fa-github"
       url: "https://github.com/TylerAlvarado"
     - label: "LinkedIn"
-      icon: "fa fa-linkedin fa-w-14"
+      icon: "fa fa-linkedin"
       url: "https://www.linkedin.com/in/tyler-alvarado-55430946/"
 
 footer:
