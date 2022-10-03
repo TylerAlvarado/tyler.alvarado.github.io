@@ -64,28 +64,24 @@ author:
   links:
     - label: "Fort Collins, CO"
       icon: "fa fa-map-marker-alt"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fa fa-envelope-square"
+      url: "mailto:tsalvarado719@gmail.com"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fa fa-fw fa-github"
+      url: "https://github.com/TylerAlvarado"
+    - label: "LinkedIn"
+      icon: "fa fa-linkedin"
+      url: "https://www.linkedin.com/in/tyler-alvarado-55430946/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Github"
+      icon: "fa fa-fw fa-github"
+      url: "https://github.com/TylerAlvarado"
+    - label: "LinkedIn"
+      icon: "fa fa-linkedin"
+      url: "https://www.linkedin.com/in/tyler-alvarado-55430946/"
 
 defaults:
   # _posts
