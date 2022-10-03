@@ -49,7 +49,7 @@ author:
   links:
     - label: "Fort Collins, CO"
       icon: "fas fa-map-marker-alt"
-      url: ""
+      url:
     - label: "Email"
       icon: "fas fa-envelope-square"
       url: "mailto:tsalvarado719@gmail.com"
@@ -62,11 +62,11 @@ author:
 
 footer:
   links:
-    - label: "Github"
-      icon: "fa fa-github fa-w-16 fa-fw"
+    - label: "GitHub"
+      icon: "fab fa-github"
       url: "https://github.com/TylerAlvarado"
     - label: "LinkedIn"
-      icon: "fa fa-linkedin fa-w-14"
+      icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/tyler-alvarado-55430946/"
 
 defaults:
