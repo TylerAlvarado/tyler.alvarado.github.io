@@ -62,8 +62,8 @@ author:
   avatar : "/assets/images/ProfilePic.PNG"
   bio    : "My goal is to help businesses measure their performance, implement corrective strategies, and make the biggest impact possible. "
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "Fort Collins, CO"
+      icon: "fa fa-map-marker-alt"
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
