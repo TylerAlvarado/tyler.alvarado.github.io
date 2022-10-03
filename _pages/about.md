@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Welcome! Thank you for stopping by my site to learn more about me. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My name is Tyler Alvarado and I'm passionate about business intelligence. My journey began as a higher education adminsitrator where I had the opportunity to develop student development curriculum and to teach students the "ins and outs" of navigating college. The biggest challenge I confronted was determining how best to measure the success of my curricula and pedagogy. This challenge ultimately led me to learning how to solve business problems by developing outcomes, success metrics, and tools to measure progress.
+
+Now, with a certificate in business intelligence and a shift out of traditional education into a technology role, I spend most of my time working on business problems, developing reports, and using various computer languages to discover solutions. 
+
+Feel free to shuffle through my projects and let me know your thoughts! I'm always learning and am happy to share my journey with you. 
