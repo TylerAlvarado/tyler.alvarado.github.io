@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Tyler Alvarado"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/ProfilePic.PNG"
   bio    : "My goal is to help businesses measure their performance, implement corrective strategies, and make the biggest impact possible. "
   links:
     - label: "Website"
