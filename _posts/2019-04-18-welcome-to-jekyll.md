@@ -11,11 +11,10 @@ tags:
 Welcome to my website! Please read through my posts to learn more about my journey through the world of business intelligence. 
 
 ```ruby
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+import mimetypes
+from woocommerce import API
+import pandas as pd
+#=> imports all packages I'm going to use. 
 ```
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
