@@ -1,9 +1,10 @@
 ---
-title: Tableau Dashboard
+title: Tableau Profile
 categories:
   - Blog
 tags:
-  - link
-  - Post Formats
+  - Visualization
+  - Data
+  - Tableau
 link: https://public.tableau.com/app/profile/tyler.alvarado
 ---
