@@ -10,7 +10,7 @@ tags:
 
 Welcome to my website! Please read through my posts to learn more about my journey through the world of business intelligence. 
 
-```ruby
+```python
 import mimetypes
 from woocommerce import API
 import pandas as pd
