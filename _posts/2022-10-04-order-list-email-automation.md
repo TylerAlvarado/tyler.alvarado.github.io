@@ -17,10 +17,10 @@ Our hospitality director loves reaching out to folks immediately after making a 
 While it may not seem like much work, she was doing this every morning and that time can add up, which could have certainly been used elsewhere. 
 
 Thus, I thought it was best that I automate this process for her. My approach was as follows:
-    - Create connection to e-commerce system
-    - Extract only the most necessary information (e.g. name, email, product purchased)
-    - Gather extracted data into a csv file
-    - Email csv file with information for the orders purchased the day previously to her email every morning at 8:00 am
+* Create connection to e-commerce system
+* Extract only the most necessary information (e.g. name, email, product purchased)
+* Gather extracted data into a csv file
+* Email csv file with information for the orders purchased the day previously to her email every morning at 8:00 am
 
 To begin, I'll import a few libraries and create a connection with the e-commerce REST API.
 ```python
@@ -127,7 +127,8 @@ def mail():
 mail()
 ```
 Lastly, as a Mac user, I utilized Automator, an app native to the system, to schedule the code to be run each more at 8:00 am. I found setting up the Automator to be realitvely intuitive, however, there was a challenge that I believe needs to be emphasized:
-    - The Automator will not run the code if your computer goes to sleep or standby mode. 
+* <strong>The Automator will not run the code if your computer goes to sleep or standby mode.</strong> 
+
 You can change these settings, but I was only able to keep my laptop on so long as it was connected to a charger...something to keep in mind if you are to develop something similar. 
 
 Thanks for sticking around! I appreciate you reading through how I've made a slight adjustment in the work that we do so to make a bigger impact on the clients we connect with. 
